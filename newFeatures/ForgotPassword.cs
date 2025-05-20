@@ -1,1 +1,1 @@
-// ForgotPassword form
+// ForgotPassword form with bug fixes
